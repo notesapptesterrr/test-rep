@@ -1,3 +1,4 @@
+import generate_id from "./generate_id";
 export default class
 {
     constructor(name, desc)
